@@ -1376,6 +1376,7 @@ MonoBehaviour:
   personaje: {fileID: 155350001}
   textoPuntuacion: {fileID: 300483374}
   textoRecord: {fileID: 93438105}
+  movimientoPersonaje: {fileID: 155350002}
   distanciaPorPunto: 1
 --- !u!1 &1153001395
 GameObject:

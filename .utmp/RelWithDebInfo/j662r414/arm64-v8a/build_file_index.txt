@@ -1,0 +1,2 @@
+C:\UnityProjects\Videojuego3D_Unidad4\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\UnityProjects\Videojuego3D_Unidad4\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
